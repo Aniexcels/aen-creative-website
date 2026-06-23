@@ -1,11 +1,10 @@
-# AEN Agency Pro
-Railway-ready portfolio agency website.
-Features:
-- GSAP animations
-- Lenis smooth scrolling
-- Three.js particles
-- Portfolio system
-- Project detail pages
-- Express contact backend
-- Mobile fullscreen menu
-- Glassmorphism UI
+# AEN Creative
+
+Upload your images into the images folder:
+
+portrait.png
+project1.jpg
+project2.jpg
+project3.jpg
+
+Deploy to Railway through GitHub.
